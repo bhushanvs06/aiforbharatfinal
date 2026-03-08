@@ -159,7 +159,7 @@ Two backend servers are used:
 | Server | Port | Purpose |
 |------|------|------|
 | server | 5000 | Main API server |
-| server2 | 5001 | Secondary / testing server |
+| server2 | 5001 | Hangout server |
 
 ---
 
@@ -323,7 +323,7 @@ http://localhost:3000
 Backend API (Main)  
 http://localhost:5000
 
-Backend API (Testing)  
+Backend API (Hangout server)  
 http://localhost:5001
 
 ---
